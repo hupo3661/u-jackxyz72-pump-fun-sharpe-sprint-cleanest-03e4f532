@@ -1,10 +1,12 @@
 # Steady Scalper
 
 [![make.fun · u-jackxyz72-pump-fun-sharpe-sprint-cleanest-03e4f532](https://make.fun/badge/u-jackxyz72-pump-fun-sharpe-sprint-cleanest-03e4f532.svg)](https://make.fun/bounty/u-jackxyz72-pump-fun-sharpe-sprint-cleanest-03e4f532?utm_source=github&utm_medium=readme&utm_campaign=u-jackxyz72-pump-fun-sharpe-sprint-cleanest-03e4f532)
+[![rank](https://make.fun/badge/u-jackxyz72-pump-fun-sharpe-sprint-cleanest-03e4f532/hupo3661/u-jackxyz72-pump-fun-sharpe-sprint-cleanest-03e4f532/rank.svg)](https://make.fun/bounty/u-jackxyz72-pump-fun-sharpe-sprint-cleanest-03e4f532/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-jackxyz72-pump-fun-sharpe-sprint-cleanest-03e4f532)
+[![reward](https://make.fun/badge/u-jackxyz72-pump-fun-sharpe-sprint-cleanest-03e4f532/hupo3661/u-jackxyz72-pump-fun-sharpe-sprint-cleanest-03e4f532/reward.svg)](https://make.fun/bounty/u-jackxyz72-pump-fun-sharpe-sprint-cleanest-03e4f532?utm_source=github&utm_medium=readme&utm_campaign=u-jackxyz72-pump-fun-sharpe-sprint-cleanest-03e4f532)
 
-A Sharpe-first paper trading bot for the Pump.fun Sharpe Sprint. One fixed-size
-momentum trade per coin, tight exits, many small wins — steady, controlled gains
-instead of one lucky moonshot. Paper money only: 10 SOL of simulated capital on
+A Sharpe-first paper trading bot for the Pump.fun Sharpe Sprint. It buys the bounce
+after a sharp dump — never the breakout — with tight exits and many small trades,
+steady, controlled gains instead of one lucky moonshot. Paper money only: 10 SOL of simulated capital on
 replayed Solana chain data. Nothing is traded for real.
 
 ## Run it
